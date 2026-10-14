@@ -215,4 +215,4 @@ SphereXP is available as a complete free version, including all features and upd
 - 💬 **[Community](https://www.softyne.com/about-us/)**
 
 ---
-**Last updated:** 2026-10-13 21:05:12 UTC
+**Last updated:** 2026-10-14 01:00:09 UTC
